@@ -8,9 +8,6 @@ I turn messy data into clear decisions with **SQL, Python (Pandas), and Power BI
 - HR analytics (attrition & engagement)
 - Credit risk (classification & dashboards)
 
-### Skills
-SQL • Python (Pandas, NumPy) • Power BI • Tableau • Excel (Pivot, VLOOKUP) • Stats (A/B, regression)
-
 ### Projects
 - **Retail Performance & Profitability (Superstore)** – SQL + Python + Power BI
 - **HR Analytics Dashboard** – attrition drivers & executive KPIs
