@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Business Analytics & AI**
+- 🔭 I’m currently pursuing my Master's in **Business Analytics & AI**
 
 - 🌱 I’m currently learning **Currently learning advanced machine learning techniques, deep learning frameworks (TensorFlow, PyTorch), cloud-based data engineering, and optimizing big data workflows**
 
