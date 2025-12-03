@@ -13,7 +13,7 @@ I turn messy data into clear decisions with **SQL, Python (Pandas), and Power BI
 - **HR Analytics Dashboard** – attrition drivers & executive KPIs
 - **Credit Risk Modeling** – data prep, baseline models, dashboard
 
-📫 `ritikanamdeo06@gmail.com` · [LinkedIn](https://www.linkedin.com/in/ritika-namdeo/)
+📫 `rritikanamdeo@gmail.com` · [LinkedIn](https://www.linkedin.com/in/ritika-namdeo/)
 
 ---
 
